@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "688202089807",
+    "project_id": "techkid-cabf3",
+    "storage_bucket": "techkid-cabf3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:688202089807:android:213f35a70fd6e35919f13a",
+        "android_client_info": {
+          "package_name": "com.Mixelation.TechKid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "688202089807-krcssj24cm7uajoqt67j23512dgi2dth.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAW3aAegV04IfU8c8KbP4hWyvmMgv5SkIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "688202089807-krcssj24cm7uajoqt67j23512dgi2dth.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
